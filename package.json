@@ -2,7 +2,7 @@
   "name": "gatsby-starter-default",
   "description": "Gatsby default starter",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Matti Wada",
   "dependencies": {
     "gatsby": "^2.2.9",
     "gatsby-plugin-manifest": "^2.0.24",
