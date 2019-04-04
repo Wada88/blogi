@@ -13,7 +13,7 @@ class Header extends React.Component {
           </a>
           <h1>
             <strong>Yuki Matti Wada</strong>
-            <p>Finnish-Japanese entrepreneur and ppcoming web developer</p>
+            <p>Finnish-Japanese entrepreneur and upcoming web developer</p>
             <br />
             <a href="http://html5up.net">My CV</a>
           </h1>
