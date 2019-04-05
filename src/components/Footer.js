@@ -12,12 +12,15 @@ class Footer extends React.Component {
               </a>
             </li>
             <li>
-              <a href="#" className="icon fa-github">
+              <a href="https://github.com/Wada88" className="icon fa-github">
                 <span className="label">Github</span>
               </a>
             </li>
             <li>
-              <a href="#" className="icon fa-dribbble">
+              <a
+                href="https://www.instagram.com/yukimattiwada/"
+                className="icon fa-instagram"
+              >
                 <span className="label">Dribbble</span>
               </a>
             </li>
