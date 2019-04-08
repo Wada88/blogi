@@ -21,35 +21,35 @@ import fullburn1 from '../assets/images/fulls/burn1.jpg'
 
 const DEFAULT_IMAGES = [
   {
-    id: '1',
+    id: 'vs',
     src: fullvs,
     thumbnail: thumbvs,
     caption: 'My journey to becoming a web developer',
     description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
   },
   {
-    id: '2',
+    id: 'kansai',
     src: fullkansai,
     thumbnail: thumbkansai,
     caption: 'Japanese street food project',
     description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
   },
   {
-    id: '3',
+    id: 'isa',
     src: fullisa,
     thumbnail: thumbisa,
     caption: 'Coordinator',
     description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
   },
   {
-    id: '4',
+    id: 'sammakko',
     src: fullsammakko,
     thumbnail: thumbsammakko,
     caption: 'Ecotourism',
     description: 'Lorem ipsum dolor sit amet nisl sed nullam feugiat.',
   },
   {
-    id: '5',
+    id: 'japan',
     src: fulljapan,
     thumbnail: thumbjapan,
     caption: 'Worklife in Japan',
@@ -110,7 +110,7 @@ class HomeIndex extends React.Component {
   }
 
   render() {
-    const siteTitle = 'Gatsby Starter - Strata'
+    const siteTitle = 'CV'
     const siteDescription = 'Site description'
 
     return (
